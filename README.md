@@ -1,6 +1,11 @@
 # Vanilla JS Browser Wallet
 A bare-bones bitcoin wallet for the base layer implemented in vanilla javascript
 
+# How to use it
+Go here: [https://supertestnet.github.io/vanilla-js-browser-wallet/wallet.html](https://supertestnet.github.io/vanilla-js-browser-wallet/wallet.html)
+
+It should be pretty self explanatory, there's a send button, a receive button, and it displays your balance. That's all.
+
 # Purpose
 This wallet is intended for use by JS hackers who want to add a basic bitcoin wallet to their website or chrome extension. You can copy the code from here and use it elsewhere.
 
