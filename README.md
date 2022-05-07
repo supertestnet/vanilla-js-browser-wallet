@@ -7,7 +7,7 @@ Go here: [https://supertestnet.github.io/vanilla-js-browser-wallet/wallet.html](
 It should be pretty self explanatory, there's a send button, a receive button, and the homepage displays your balance and backup words (which you can hide after you write them down). That's all.
 
 # Purpose
-This wallet is intended for use by JS hackers who want to add a basic bitcoin wallet to their website or chrome extension. You can copy the code from here and use it elsewhere.
+This wallet is intended for use by JS hackers who want to add a basic non-custodial bitcoin wallet to their website or chrome extension. You can copy the code from here and use it elsewhere.
 
 # Limitations
 
